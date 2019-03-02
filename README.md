@@ -1,7 +1,6 @@
 # Project Learned-Hand
 
-## Preliminary Project Plan for the Creation of an 
-## Industry-Leading Machine Learning Program
+## Preliminary Project Plan for the Creation of an Industry-Leading Machine Learning Program
 *(Draft 1/28/2019)*
 
 ### Project Name:	
